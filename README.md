@@ -1,4 +1,5 @@
 # Nepal Travel Data Explorer
+**Live demo:** https://nepal-travel-data-explorer.streamlit.app/
 
 A small Streamlit app that explores well-known places in Nepal with filters,
 ratings, elevation comparison, and a map. Built as a starter project for
